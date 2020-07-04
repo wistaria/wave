@@ -4,6 +4,6 @@
 
 ---
 
-### 付録: Gogle Colabでの機械学習の例
+### 付録: Google Colabでの機械学習の例
 
 * [SciKit-Learnとskorchによる手書き数字認識](https://colab.research.google.com/github/skorch-dev/skorch/blob/master/notebooks/MNIST.ipynb)
